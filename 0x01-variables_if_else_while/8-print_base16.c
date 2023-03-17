@@ -1,4 +1,4 @@
-#include <studio.>
+#include <studio.h>
 
 /**
  * main - Prints numbers of base 16.
