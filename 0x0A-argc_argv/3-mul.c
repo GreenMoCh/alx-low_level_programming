@@ -42,7 +42,6 @@ int _atoi(char *s)
 		return (0);
 	return (n);
 }
-
 /**
  * main - multiplies two numbers
  * @argc: number of arguments
@@ -50,7 +49,6 @@ int _atoi(char *s)
  *
  * Return: 0 on success, 1 on error
  */
-
 int main(int argc, char *argv[])
 {
 	int result, num1, num2;
